@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "foodie-327403",
+  "private_key_id": "151541f527ebc417e44a82cc324e04594af32701",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIAqa6TCB8Nykg\n7GBV9TgUEUcmzREzfEkxnphrSF3/dQ66YHgEhxSVeDU1TG/k1dwEmopMlHo09Km3\nDYoXzydSwieaFaNL5MoeL/7fYHT41E8cBAxO9+corbCxK7Rnfm3K9iOnBwmomnYi\nXjfyrb4eGc48OtR+V/I4GvJ+3LdHycdoYJmAn0IJld1iAktC80GvDILVMffOoL0V\n8hMSIeUOagO0m1lbrvHAc4b59+T/6AcZq3lAqbn/LyN5r8MP+cVwCsinVr6VMC31\n7+NyB0qjx8tebAMc7HCcw6bdH75n8wfz/s9K/L/2HFtYgYN7qodWHEaR2GU0x/Yk\n087COcZtAgMBAAECggEAIQrFwNzcYwOj254L84y9f8cznMvfoxn4Z5Dz94lENMnX\nAzWhA4fN/+a/d4zR/BkpLhOFHyNKUHROPgD9HB4rY2coLrLowBwjGJCaR7cs1oIQ\niFLSNmY1qIk6jv0RjSVxqEg4hJqg3wXsLT+pI4IjeIqP1nBrnsG9sMTMOea8Wp3x\nXhI0QhWKc/Yj5tKw8KkHBdV3Sx30rt7EVFfcvaQ3em2qTS/L0zdpPd98x29wdAD1\nu6GdLE7nlIEdQg4gYIrrVo5Y4xLBOyRBsBqvhNYZ2SXcW2gLZU/82fpYc7CUQll1\nSHAcgF3n48po9ihcnCHeTvZS1A/yP8/9HUkaItVzuwKBgQDvQQC3E9bYYFXN+dpn\nTJ/K6t87VP6gKisPI9JjIcw8NUPIe4XnJdQpgYgK6GOrUa6PVt+Ln135rxmlNVSu\ncXazu/gXEHlIWX17akZm2ovLGybE7hjOEiVwRaQ+htmJeekdQ4WZttuABF8RqIAy\nH+c473pPfyGZCEPN8nN4WNLjswKBgQDWAnmTJv/hBVRRu1kxHoTvydYO1Gn/msMy\n3QIcAAcp0fY6BUV8CdqI8QcoT+rvGxB0OEvC7do9Bb1XsrWjbUGof+xzB9RW6vt6\nCZMOeQNXi1DOOnfUfMO6AFdOT5sKyM37Rll6rHRxQ1XCpEYHFPdrz7Uufd/XfmOf\nj9X1ESQdXwKBgQCdB6b2gljyr1fh1ulX/1ypjDpz8LcmXEbiqvo9AkPQCI2ymhAq\nxBNaIqAtuJUiLnxJrBUQyMqfRCOq4TPxQptMIEUWrkNMDyBizj/i5fH2np11h2hU\naGiWJb9FIrDIoHE2OckIOJIclcHoDxYE0BessNEwOBrPHDOUilrrVDEmLQKBgDDe\nLc65SBKk+eUT58D8nBR5PUTzoiS4vTv/FX05UGlvRU9oZr51LY65ow3EefwRbQds\n13fygjQO/HZrG2jvCOAmHeMCda1HSRdL2mWiom26JUCCP1ypBLSTYVxDdz7WLZrk\nLIiDmq9GVe31PvxdAEaBDnlISvXVKYCFArFMMbf3AoGADUVw+kOnMRRyYL8g+2uQ\nzFfvJMpzQ0UTxFVwDutGL6jatAdM2pVVrW7cCabspE6LBKMYZ3YNFyP2RfM2QC9r\nYAY5RYfzfbMKbQu9UCDngBh4ikCyutmNCRj6KzJpRkbWUH76Dw24dBNNJF8er/Cc\neSQScyhRULnCfLMG4EdgL9E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodie-service@foodie-327403.iam.gserviceaccount.com",
+  "client_id": "113854098976186353817",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodie-service%40foodie-327403.iam.gserviceaccount.com"
+}
