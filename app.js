@@ -7,7 +7,7 @@ const driveRoutes = require("./routes/drive.route");
 const app = express();
 
 // Allow Cross-Origin requests
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(cors());
 
 // Routes
